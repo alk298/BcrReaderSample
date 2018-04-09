@@ -26,6 +26,7 @@ public class ReaderActivity extends AppCompatActivity implements View.OnClickLis
     private boolean isContinuousScan = false;
 
     //abc
+    // bcd
 
     /**
      * onCreate event handler
