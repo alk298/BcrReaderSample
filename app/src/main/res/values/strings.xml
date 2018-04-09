@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BCR Reader Sample</string>
+    <string name="format_barcode_type_result">Barcode Type : %s</string>
+    <string name="format_barcode_length_result">Barcode Length : %d</string>
+    <string name="status_ready_to_scan">Ready to scan</string>
+    <string name="comment_press_scan_button">Press button to read a barcode</string>
+    <string name="status_scanning">Scanning now...</string>
+</resources>
